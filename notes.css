@@ -23,7 +23,7 @@
     width: 50%;
     margin: 0px 10px;
     background-color:rgb(255, 255, 255);
-    border: 0.5px solid black;
+    border: 0.5px solid #db9703ee;
 }
 .head-inp::placeholder{
     padding-left: 20px;
